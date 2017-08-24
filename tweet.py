@@ -1,6 +1,7 @@
-# TwtPy Lite
-#		
+# TwtPy Lite		
 # Andresito de Guzman
+#
+# 2017
 #
 import twitter
 import auth
